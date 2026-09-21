@@ -1,0 +1,11 @@
+{
+  "original_development_dataset_identified": false,
+  "original_split_and_gallery_probe_available": false,
+  "original_checkpoints_available": false,
+  "original_per_sample_predictions_available": false,
+  "original_five_seed_runs_available": false,
+  "matched_modern_baseline_executed": false,
+  "official_protocol_evaluator_verified": false,
+  "explanation_source_outputs_available": false,
+  "original_latency_hardware_and_raw_timings_available": false
+}

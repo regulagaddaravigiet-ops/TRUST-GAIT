@@ -1,0 +1,4 @@
+method,predicted_score_drop,decision_flip_rate_pct,intervention_precision_score,scope
+TriTrust rule intervention,0.56,68,0.71,matched archived audit
+Integrated Gradients,0.41,32,0.46,matched archived audit
+SHAP,0.35,20,0.34,matched archived audit

@@ -1,0 +1,6 @@
+condition,cnn_accuracy_pct,tritrust_accuracy_pct,gain_points
+Angle variation,88.4,96.6,8.2
+Speed variation,89.1,95.7,6.6
+Partial occlusion,85.2,95.3,10.1
+Synthetic noise,84.1,94.7,10.6
+Missing frames,82.8,93.5,10.7

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "TriTrust_Gait_Final_Revision_R3_RED_Highlighted(1).docx",
+    "bytes": 6366154,
+    "sha256": "fcb06664b7249ab6f1732b1a44b33b04e60d041ae8bc5579e0542b305c4e0a77",
+    "use": "paper/source"
+  },
+  {
+    "name": "TriTrust_Gait_Reproducibility_Package (1).zip",
+    "bytes": 6468652,
+    "sha256": "a4bec1c8a7a8b573131b3f17b3cac3f6013cb4a4da1e8281b8a069c0feee738d",
+    "use": "paper/source"
+  },
+  {
+    "name": "V2I_MACF_IG_REPRODUCIBILITY_PACKAGE_v11_REVIEWER_CLEAN_EXECUTED (2)(1).zip",
+    "bytes": 137806339,
+    "sha256": "105a614116a51b463d351cafb2d2b3f3b1313707e24c3d7d46edaadb15ebc42d",
+    "use": "structural reference only"
+  }
+]

@@ -1,0 +1,4 @@
+model,accuracy_mean,accuracy_sd,accuracy_ci_low,accuracy_ci_high,macro_f1_mean,macro_f1_sd,f1_ci_low,f1_ci_high,paired_p_status
+CNN,90.7,0.42,90.18,91.22,89.1,0.51,88.47,89.73,reference
+BiLSTM,91.5,0.38,91.03,91.97,90.5,0.46,89.93,91.07,reconstructed p=1.500425e-6 vs CNN
+TriTrust-Gait,97.1,0.29,96.74,97.46,96.1,0.32,95.7,96.5,reconstructed p=1.610791e-8 vs BiLSTM

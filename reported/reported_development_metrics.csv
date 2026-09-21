@@ -1,0 +1,6 @@
+model,top1_accuracy_pct,macro_precision_pct,macro_recall_pct,macro_f1_pct,roc_auc,scope
+SVM,83.2,81.4,80.9,81.1,0.87,archived controlled-development; not pooled public benchmark
+Random Forest,84.6,82.2,81.3,81.7,0.88,archived controlled-development; not pooled public benchmark
+CNN,90.7,89.9,88.3,89.1,0.92,archived controlled-development; not pooled public benchmark
+BiLSTM,91.5,90.8,90.2,90.5,0.94,archived controlled-development; not pooled public benchmark
+TriTrust-Gait,97.1,96.5,95.8,96.1,0.98,archived controlled-development; not pooled public benchmark

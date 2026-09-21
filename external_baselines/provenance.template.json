@@ -1,0 +1,17 @@
+{
+  "repository_url": null,
+  "commit": null,
+  "architecture": null,
+  "input_adapter_description": null,
+  "training_config_path": null,
+  "training_config_sha256": null,
+  "training_log_path": null,
+  "training_log_sha256": null,
+  "checkpoint_path": null,
+  "checkpoint_sha256": null,
+  "embeddings_path": null,
+  "embeddings_sha256": null,
+  "manifest_sha256": null,
+  "seed": null,
+  "scope": null
+}

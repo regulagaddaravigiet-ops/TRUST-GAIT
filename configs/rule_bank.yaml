@@ -1,0 +1,18 @@
+version: "1.0"
+identity_role: "identity-agnostic structural features"
+predicate:
+  slope: 10.0
+  midpoint: 0.5
+  neutral_truth: 0.5
+  reliability_neutralization: "p_tilde = q*p + (1-q)*0.5"
+tnorm: product
+rules:
+  R1: [SR, BS]
+  R2: [TS, SWC]
+  R3: [MS, LRC]
+  R4: [SR, TS, MS]
+  R5: [BS, SWC, LRC]
+  R6: [SR, BS, MS]
+  R7: [TS, SWC, MS]
+  R8: [SR, BS, TS, SWC, MS, LRC]
+rule_reliability: "minimum reliability q among participating predicates"

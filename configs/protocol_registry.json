@@ -1,0 +1,25 @@
+{
+  "casia_b": {
+    "train": "001-074",
+    "test": "075-124",
+    "gallery": "NM01-04",
+    "probe": [
+      "NM05-06",
+      "BG01-02",
+      "CL01-02"
+    ],
+    "views": 11,
+    "status": "registered description; actual lists missing"
+  },
+  "ou_mvlp": {
+    "train_count": 5153,
+    "test_count": 5154,
+    "gallery": "01",
+    "probe": "00",
+    "views": 14,
+    "status": "official subject lists missing"
+  },
+  "ccgr": {
+    "status": "requires official evaluator; generic runner refuses"
+  }
+}

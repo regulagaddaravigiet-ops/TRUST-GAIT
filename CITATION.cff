@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Cite the authors' manuscript and this implementation version separately; no DOI is assigned here."
+title: "TriTrust-Gait: reconstructed implementation and software validation"
+type: software
+version: 2.0.0
+authors:
+  - family-names: Regulagadda
+    given-names: Ravi
+  - family-names: Sahoo
+    given-names: Bidush Kumar
+  - family-names: Chandra
+    given-names: Gollapudi Ramesh

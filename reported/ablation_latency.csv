@@ -1,0 +1,7 @@
+configuration,accuracy_pct,macro_f1_pct,latency_ms,added_ms_vs_cnn,relative_overhead_pct
+Base CNN,90.7,89.1,176,0,0.0
+CNN + preprocessing,92.0,90.8,178,2,1.1
++ temporal encoder,93.4,92.4,184,8,4.5
++ symbolic branch,95.6,94.2,190,14,8.0
++ rule consistency,96.4,95.3,193,17,9.7
+Complete TriTrust-Gait,97.1,96.1,194,18,10.2

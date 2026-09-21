@@ -1,0 +1,5 @@
+sample_id,subject_id,predicted_id,gallery_sample_id,probe_view,gallery_view,condition,score,correct,seed,model,checkpoint_sha256,scope
+s006_v000_1,006,006,s006_v090_0,0,90,NM,0.9999999720763063,1,53,bilstm,cf2f4be475c81aa7cbbb73b415c816970f7d9a651283fe22431c68f5dc8241fa,synthetic_pipeline_validation
+s006_v090_1,006,006,s006_v000_0,90,0,NM,0.9999999804559869,1,53,bilstm,cf2f4be475c81aa7cbbb73b415c816970f7d9a651283fe22431c68f5dc8241fa,synthetic_pipeline_validation
+s007_v000_1,007,007,s007_v090_0,0,90,NM,0.9999999980025647,1,53,bilstm,cf2f4be475c81aa7cbbb73b415c816970f7d9a651283fe22431c68f5dc8241fa,synthetic_pipeline_validation
+s007_v090_1,007,007,s007_v000_0,90,0,NM,0.9999999975021036,1,53,bilstm,cf2f4be475c81aa7cbbb73b415c816970f7d9a651283fe22431c68f5dc8241fa,synthetic_pipeline_validation

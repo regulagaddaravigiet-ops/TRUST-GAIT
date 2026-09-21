@@ -1,0 +1,3 @@
+epoch,train_loss,rule_loss,validation_rank1,selected
+1,1.692723035812378,0.0,100.0,1
+2,1.6535112261772156,0.0,100.0,0

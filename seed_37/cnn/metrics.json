@@ -1,0 +1,27 @@
+{
+  "rank1_macro_cells": 50.0,
+  "accuracy_micro_comparisons": 50.0,
+  "macro_precision": 25.0,
+  "macro_recall": 50.0,
+  "macro_f1": 33.33333333333333,
+  "n_comparisons": 4,
+  "n_unique_probes": 4,
+  "roc_auc": null,
+  "roc_auc_reason": "Not derived from hard top-1 labels; needs specified class probability contract",
+  "cells": [
+    {
+      "condition": "NM",
+      "probe_view": "0",
+      "gallery_view": "90",
+      "n": 2,
+      "rank1": 50.0
+    },
+    {
+      "condition": "NM",
+      "probe_view": "90",
+      "gallery_view": "0",
+      "n": 2,
+      "rank1": 50.0
+    }
+  ]
+}

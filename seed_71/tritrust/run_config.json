@@ -1,0 +1,33 @@
+{
+  "model": "tritrust",
+  "seed": 71,
+  "epochs": 2,
+  "batch_size": 8,
+  "patience": 15,
+  "learning_rate": 0.0001,
+  "weight_decay": 1e-05,
+  "triplet_margin": 0.3,
+  "triplet_weight": 1.0,
+  "symbolic_weight": 0.1,
+  "device": "cpu",
+  "scope": "synthetic_pipeline_validation",
+  "manifest_sha256": "2c573a1b32bc85cf071dcb9f044bd91b884f0b5f6a794d5f5d07fd2282e66ea2",
+  "classes": [
+    "000",
+    "001",
+    "002",
+    "003"
+  ],
+  "rule_loss_status": "fixed rules have no trainable path; diagnostic constant only",
+  "source_hashes": {
+    "__init__.py": "870389b855042adb2088eb7897aa29f6cfa1be2a2f33a4cad6e09db513566381",
+    "data.py": "4279422dd4f6d97e0a1fa6ef1eadde2bda62d8b33407ba2da6a522946451573e",
+    "evaluation.py": "b74596b5c9662d03017314076bc4d97b0e95d267622969fb64d2f3a32e4ad9eb",
+    "explain.py": "4bfff64fb6b20cb29e53988a67d1899bdd0c97f6a67c690f55ea75118a12372e",
+    "fixture.py": "593fd99475169efee0d0914ef28d17fde1b1812e0560efe5fc2e755db389438e",
+    "losses.py": "436fcc64b89d23eee58c0757ba63b2bc37a434a3f33e1cdbb06f933870f607db",
+    "models.py": "5d36ad9215dd5bfe05ecb2cb95937573941c5bdaa7d4454ec53f3ba8deb33175",
+    "rules.py": "de40f404754d57d802496f4a0eb19e016d68cefb0d60c6b745c08911223c3cd5",
+    "runner.py": "54030b94b56a350b613589bb431732cb68173544d0bfbaf31491bc9fffc22a0e"
+  }
+}

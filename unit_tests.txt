@@ -1,0 +1,24 @@
+test_empty_frame (test_contracts.Contracts.test_empty_frame) ... ok
+test_hash_mismatch (test_contracts.Contracts.test_hash_mismatch) ... /workspace/scratch/26ee8b232c8e/build/TriTrust_Gait_Reproducibility_v2/src/tritrust/data.py:16: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/tmpe9xuhjaz/samples.csv' mode='r' encoding='UTF-8'>
+  path=Path(path); rows=list(csv.DictReader(path.open()))
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_manifest_leakage (test_contracts.Contracts.test_manifest_leakage) ... /workspace/scratch/26ee8b232c8e/build/TriTrust_Gait_Reproducibility_v2/tests/test_contracts.py:15: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/tmpea1em3lu/samples.csv' mode='r' encoding='UTF-8'>
+  p=generate(d);r=list(csv.DictReader(p.open()));r[-1]['subject_id']=r[0]['subject_id']
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/workspace/scratch/26ee8b232c8e/build/TriTrust_Gait_Reproducibility_v2/src/tritrust/data.py:16: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/tmpea1em3lu/samples.csv' mode='r' encoding='UTF-8'>
+  path=Path(path); rows=list(csv.DictReader(path.open()))
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_model_shapes (test_contracts.Contracts.test_model_shapes) ... ok
+test_no_rule_gradient (test_contracts.Contracts.test_no_rule_gradient) ... ok
+test_perfect_crossview (test_contracts.Contracts.test_perfect_crossview) ... ok
+test_preprocess (test_contracts.Contracts.test_preprocess) ... ok
+test_seed_mismatch (test_contracts.Contracts.test_seed_mismatch) ... ok
+test_triplet_no_pairs (test_contracts.Contracts.test_triplet_no_pairs) ... ok
+test_zero_reliability (test_contracts.Contracts.test_zero_reliability) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 1.368s
+
+OK

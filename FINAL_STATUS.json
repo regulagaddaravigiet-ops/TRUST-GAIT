@@ -1,0 +1,13 @@
+{
+  "software_tests": 10,
+  "software_tests_passed": 10,
+  "model_seed_runs": 25,
+  "checkpoint_artifact_verification": "passed",
+  "rule_audit_seeds": 5,
+  "robustness_conditions": 5,
+  "inference_knockouts": 4,
+  "latency_repetitions": 1000,
+  "research_evidence_gate": "NOT_READY",
+  "manuscript_metrics_reproduced": false,
+  "source_scope": "reconstructed implementation with documented methodological choices"
+}

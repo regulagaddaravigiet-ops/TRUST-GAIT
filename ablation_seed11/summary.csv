@@ -1,0 +1,5 @@
+mode,rank1,scope
+full,0.0,synthetic_pipeline_validation
+zero_symbolic,50.0,synthetic_pipeline_validation
+zero_gei_input,0.0,synthetic_pipeline_validation
+zero_temporal_input,0.0,synthetic_pipeline_validation

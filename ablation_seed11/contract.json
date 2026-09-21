@@ -1,0 +1,6 @@
+{
+  "checkpoint_sha256": "5f6618ffb034942535c5cb79467ba33c6f3576d60857e162b392c34af56e362f",
+  "scope": "synthetic_pipeline_validation",
+  "type": "fixed-checkpoint input/branch knockout on gallery and probe; not retraining; not paper Table8",
+  "rule_loss_ablation": "not meaningful for fixed non-learned rules"
+}

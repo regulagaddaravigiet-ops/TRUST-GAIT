@@ -1,0 +1,7 @@
+{
+  "checkpoint_sha256": "5f6618ffb034942535c5cb79467ba33c6f3576d60857e162b392c34af56e362f",
+  "scope": "synthetic_pipeline_validation",
+  "pose_policy": "all descriptor reliability zero on perturbed probes; isolates availability as well as perturbation",
+  "angle_variation": "not simulated; use real view labels",
+  "definitions": "new deterministic diagnostic definitions; not original Table 9 protocol"
+}

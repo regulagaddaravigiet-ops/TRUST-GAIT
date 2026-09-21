@@ -1,0 +1,155 @@
+{
+  "scope": "synthetic_pipeline_validation_only",
+  "runs": [
+    {
+      "seed": 11,
+      "model": "cnn",
+      "status": "executed",
+      "path": "validation/executed/runs/seed_11/cnn"
+    },
+    {
+      "seed": 11,
+      "model": "bilstm",
+      "status": "executed",
+      "path": "validation/executed/runs/seed_11/bilstm"
+    },
+    {
+      "seed": 11,
+      "model": "tritrust",
+      "status": "executed",
+      "path": "validation/executed/runs/seed_11/tritrust"
+    },
+    {
+      "seed": 11,
+      "model": "svm",
+      "status": "executed",
+      "path": "validation/executed/runs/seed_11/svm"
+    },
+    {
+      "seed": 11,
+      "model": "random_forest",
+      "status": "executed",
+      "path": "validation/executed/runs/seed_11/random_forest"
+    },
+    {
+      "seed": 23,
+      "model": "cnn",
+      "status": "executed",
+      "path": "validation/executed/runs/seed_23/cnn"
+    },
+    {
+      "seed": 23,
+      "model": "bilstm",
+      "status": "executed",
+      "path": "validation/executed/runs/seed_23/bilstm"
+    },
+    {
+      "seed": 23,
+      "model": "tritrust",
+      "status": "executed",
+      "path": "validation/executed/runs/seed_23/tritrust"
+    },
+    {
+      "seed": 23,
+      "model": "svm",
+      "status": "executed",
+      "path": "validation/executed/runs/seed_23/svm"
+    },
+    {
+      "seed": 23,
+      "model": "random_forest",
+      "status": "executed",
+      "path": "validation/executed/runs/seed_23/random_forest"
+    },
+    {
+      "seed": 37,
+      "model": "cnn",
+      "status": "executed",
+      "path": "validation/executed/runs/seed_37/cnn"
+    },
+    {
+      "seed": 37,
+      "model": "bilstm",
+      "status": "executed",
+      "path": "validation/executed/runs/seed_37/bilstm"
+    },
+    {
+      "seed": 37,
+      "model": "tritrust",
+      "status": "executed",
+      "path": "validation/executed/runs/seed_37/tritrust"
+    },
+    {
+      "seed": 37,
+      "model": "svm",
+      "status": "executed",
+      "path": "validation/executed/runs/seed_37/svm"
+    },
+    {
+      "seed": 37,
+      "model": "random_forest",
+      "status": "executed",
+      "path": "validation/executed/runs/seed_37/random_forest"
+    },
+    {
+      "seed": 53,
+      "model": "cnn",
+      "status": "executed",
+      "path": "validation/executed/runs/seed_53/cnn"
+    },
+    {
+      "seed": 53,
+      "model": "bilstm",
+      "status": "executed",
+      "path": "validation/executed/runs/seed_53/bilstm"
+    },
+    {
+      "seed": 53,
+      "model": "tritrust",
+      "status": "executed",
+      "path": "validation/executed/runs/seed_53/tritrust"
+    },
+    {
+      "seed": 53,
+      "model": "svm",
+      "status": "executed",
+      "path": "validation/executed/runs/seed_53/svm"
+    },
+    {
+      "seed": 53,
+      "model": "random_forest",
+      "status": "executed",
+      "path": "validation/executed/runs/seed_53/random_forest"
+    },
+    {
+      "seed": 71,
+      "model": "cnn",
+      "status": "executed",
+      "path": "validation/executed/runs/seed_71/cnn"
+    },
+    {
+      "seed": 71,
+      "model": "bilstm",
+      "status": "executed",
+      "path": "validation/executed/runs/seed_71/bilstm"
+    },
+    {
+      "seed": 71,
+      "model": "tritrust",
+      "status": "executed",
+      "path": "validation/executed/runs/seed_71/tritrust"
+    },
+    {
+      "seed": 71,
+      "model": "svm",
+      "status": "executed",
+      "path": "validation/executed/runs/seed_71/svm"
+    },
+    {
+      "seed": 71,
+      "model": "random_forest",
+      "status": "executed",
+      "path": "validation/executed/runs/seed_71/random_forest"
+    }
+  ]
+}

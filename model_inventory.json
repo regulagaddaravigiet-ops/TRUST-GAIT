@@ -1,0 +1,107 @@
+[
+  {
+    "run": "validation/executed/runs/seed_11/bilstm",
+    "checkpoint_bytes": 10119209,
+    "learned_tensor_elements": 2527493,
+    "epoch": 1,
+    "scope": "synthetic_pipeline_validation"
+  },
+  {
+    "run": "validation/executed/runs/seed_11/cnn",
+    "checkpoint_bytes": 1836881,
+    "learned_tensor_elements": 456584,
+    "epoch": 1,
+    "scope": "synthetic_pipeline_validation"
+  },
+  {
+    "run": "validation/executed/runs/seed_11/tritrust",
+    "checkpoint_bytes": 12746717,
+    "learned_tensor_elements": 3182217,
+    "epoch": 1,
+    "scope": "synthetic_pipeline_validation"
+  },
+  {
+    "run": "validation/executed/runs/seed_23/bilstm",
+    "checkpoint_bytes": 10119209,
+    "learned_tensor_elements": 2527493,
+    "epoch": 1,
+    "scope": "synthetic_pipeline_validation"
+  },
+  {
+    "run": "validation/executed/runs/seed_23/cnn",
+    "checkpoint_bytes": 1836881,
+    "learned_tensor_elements": 456584,
+    "epoch": 1,
+    "scope": "synthetic_pipeline_validation"
+  },
+  {
+    "run": "validation/executed/runs/seed_23/tritrust",
+    "checkpoint_bytes": 12746717,
+    "learned_tensor_elements": 3182217,
+    "epoch": 1,
+    "scope": "synthetic_pipeline_validation"
+  },
+  {
+    "run": "validation/executed/runs/seed_37/bilstm",
+    "checkpoint_bytes": 10119209,
+    "learned_tensor_elements": 2527493,
+    "epoch": 1,
+    "scope": "synthetic_pipeline_validation"
+  },
+  {
+    "run": "validation/executed/runs/seed_37/cnn",
+    "checkpoint_bytes": 1836881,
+    "learned_tensor_elements": 456584,
+    "epoch": 1,
+    "scope": "synthetic_pipeline_validation"
+  },
+  {
+    "run": "validation/executed/runs/seed_37/tritrust",
+    "checkpoint_bytes": 12746717,
+    "learned_tensor_elements": 3182217,
+    "epoch": 1,
+    "scope": "synthetic_pipeline_validation"
+  },
+  {
+    "run": "validation/executed/runs/seed_53/bilstm",
+    "checkpoint_bytes": 10119209,
+    "learned_tensor_elements": 2527493,
+    "epoch": 1,
+    "scope": "synthetic_pipeline_validation"
+  },
+  {
+    "run": "validation/executed/runs/seed_53/cnn",
+    "checkpoint_bytes": 1836881,
+    "learned_tensor_elements": 456584,
+    "epoch": 1,
+    "scope": "synthetic_pipeline_validation"
+  },
+  {
+    "run": "validation/executed/runs/seed_53/tritrust",
+    "checkpoint_bytes": 12746717,
+    "learned_tensor_elements": 3182217,
+    "epoch": 1,
+    "scope": "synthetic_pipeline_validation"
+  },
+  {
+    "run": "validation/executed/runs/seed_71/bilstm",
+    "checkpoint_bytes": 10119209,
+    "learned_tensor_elements": 2527493,
+    "epoch": 1,
+    "scope": "synthetic_pipeline_validation"
+  },
+  {
+    "run": "validation/executed/runs/seed_71/cnn",
+    "checkpoint_bytes": 1836881,
+    "learned_tensor_elements": 456584,
+    "epoch": 1,
+    "scope": "synthetic_pipeline_validation"
+  },
+  {
+    "run": "validation/executed/runs/seed_71/tritrust",
+    "checkpoint_bytes": 12746717,
+    "learned_tensor_elements": 3182217,
+    "epoch": 1,
+    "scope": "synthetic_pipeline_validation"
+  }
+]

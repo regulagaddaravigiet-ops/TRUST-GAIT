@@ -1,0 +1,15 @@
+{
+  "research_reproduction_ready": false,
+  "unresolved": [
+    "original_development_dataset_identified",
+    "original_split_and_gallery_probe_available",
+    "original_checkpoints_available",
+    "original_per_sample_predictions_available",
+    "original_five_seed_runs_available",
+    "matched_modern_baseline_executed",
+    "official_protocol_evaluator_verified",
+    "explanation_source_outputs_available",
+    "original_latency_hardware_and_raw_timings_available"
+  ],
+  "note": "Checklist only; true declarations must be supported by independently inspectable artifacts."
+}

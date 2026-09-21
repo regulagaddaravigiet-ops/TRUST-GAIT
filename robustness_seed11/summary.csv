@@ -1,0 +1,6 @@
+condition,rank1,scope
+clean,0.0,synthetic_pipeline_validation
+occlusion_20_percent,50.0,synthetic_pipeline_validation
+pixel_flip_1_percent,50.0,synthetic_pipeline_validation
+missing_frames_20_percent,50.0,synthetic_pipeline_validation
+speed_subsample_2x,50.0,synthetic_pipeline_validation

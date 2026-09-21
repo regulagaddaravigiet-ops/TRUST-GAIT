@@ -1,0 +1,22 @@
+{
+  "seeds": [
+    11,
+    23,
+    37,
+    53,
+    71
+  ],
+  "mean_difference": -95.0,
+  "ci95": [
+    -108.88222552598897,
+    -81.11777447401103
+  ],
+  "p_value": 4.520213107940966e-05,
+  "constant_difference": false,
+  "scope": "synthetic_pipeline_validation",
+  "manifest_sha256": "2c573a1b32bc85cf071dcb9f044bd91b884f0b5f6a794d5f5d07fd2282e66ea2",
+  "metric": "rank1_macro_cells",
+  "model_a": "tritrust",
+  "model_b": "bilstm",
+  "interpretation": "For fixture scope this describes software test outcomes only; no scientific significance claim"
+}

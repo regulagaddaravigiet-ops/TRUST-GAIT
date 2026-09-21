@@ -1,0 +1,13 @@
+sample_id,gallery_view,method,chosen_rule,score_drop,decision_flip,positive_effect,selection_budget,scope
+s006_v000_1,90,rule_removal,R1,0.4821026176214218,1,1,1,synthetic_pipeline_validation
+s006_v000_1,90,integrated_gradients,R1,0.4821026176214218,1,1,1,synthetic_pipeline_validation
+s006_v000_1,90,exact_shapley,R1,0.4821026176214218,1,1,1,synthetic_pipeline_validation
+s006_v090_1,0,rule_removal,R1,0.08725935220718384,0,1,1,synthetic_pipeline_validation
+s006_v090_1,0,integrated_gradients,R1,0.08725935220718384,0,1,1,synthetic_pipeline_validation
+s006_v090_1,0,exact_shapley,R1,0.08725935220718384,0,1,1,synthetic_pipeline_validation
+s007_v000_1,90,rule_removal,R2,0.6311447024345398,1,1,1,synthetic_pipeline_validation
+s007_v000_1,90,integrated_gradients,R2,0.6311447024345398,1,1,1,synthetic_pipeline_validation
+s007_v000_1,90,exact_shapley,R2,0.6311447024345398,1,1,1,synthetic_pipeline_validation
+s007_v090_1,0,rule_removal,R2,0.14670050144195557,1,1,1,synthetic_pipeline_validation
+s007_v090_1,0,integrated_gradients,R2,0.14670050144195557,1,1,1,synthetic_pipeline_validation
+s007_v090_1,0,exact_shapley,R2,0.14670050144195557,1,1,1,synthetic_pipeline_validation

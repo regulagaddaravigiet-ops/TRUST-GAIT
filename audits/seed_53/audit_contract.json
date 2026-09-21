@@ -1,0 +1,15 @@
+{
+  "scope": "synthetic_pipeline_validation",
+  "checkpoint_sha256": "6ac9396b04555f157ebb7a3ca7fe7d76b564c2436fb8f5a439ca9d1e4a2f1ded",
+  "manifest_sha256": "2c573a1b32bc85cf071dcb9f044bd91b884f0b5f6a794d5f5d07fd2282e66ea2",
+  "input_space": "8 reliability-weighted rule coordinates; neural coordinates and gallery fixed",
+  "neutral_value": 0,
+  "temperature": 0.1,
+  "temperature_status": "diagnostic fixed value, not validation-calibrated",
+  "ig_intervals": 32,
+  "shapley_coalitions": 256,
+  "perturbation_budget": 1,
+  "attribution_compute_budget": "different across methods; all use identical removal evaluation budget",
+  "intervention_precision": "not claimed; positive_effect is only positive score-drop indicator",
+  "selection_bias": "rule_removal selects best observed removal; comparison is descriptive, not unbiased superiority evidence"
+}

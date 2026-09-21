@@ -1,0 +1,7 @@
+{
+  "seed": 11,
+  "scope": "synthetic_pipeline_validation",
+  "adaptation": "training-class score embedding plus cosine gallery matching; not original closed-set Table 5 classifier protocol",
+  "manifest_sha256": "2c573a1b32bc85cf071dcb9f044bd91b884f0b5f6a794d5f5d07fd2282e66ea2",
+  "checkpoint_sha256": "6fdb7c61c9f7a39728ded7b732e0542b6c6bcd25933b6e42865347abae0a9a31"
+}
